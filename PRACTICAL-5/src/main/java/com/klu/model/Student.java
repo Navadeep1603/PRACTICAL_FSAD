@@ -13,8 +13,8 @@ public class Student {
 	private Certification certification;
 	
 	public Student() {
-		this.id = 100;
-		this.name = "Srithan";
+		this.id = 101;
+		this.name = "Navadeep";
 		this.gender = 'M';
 	}
 	
